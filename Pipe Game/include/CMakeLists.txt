@@ -1,0 +1,1 @@
+target_include_directories (ex4_hanan_cohen_shuval_zada PRIVATE ${CMAKE_CURRENT_LIST_DIR})
